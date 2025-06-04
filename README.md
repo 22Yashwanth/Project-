@@ -1,3 +1,4 @@
+//My  Portfolia Website
 # 🌐 Personal Portfolio Website
 
 Welcome to my **Personal Portfolio Website** – a clean, responsive, and modular multi-page web project built using only **HTML** and **CSS**. This site showcases my profile, skills, projects, and contact information in a user-friendly interface.
@@ -46,7 +47,7 @@ You can deploy this project easily using platforms like:
 
 ### `index.html` – Home Page
 - Hero banner with intro
-- Navigation to all other pages
+- Navigation to all other pages//i
 - Highlights of services/skills
 
 ### `about.html` – About Me
